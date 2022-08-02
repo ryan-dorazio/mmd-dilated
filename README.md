@@ -5,7 +5,8 @@ MMD converges in the last iterate linearly (i.e. exponentially fast)
 to a reduced normal-form quantal response equilibrium (QRE). 
 For more details see [https://arxiv.org/abs/2206.05825](https://arxiv.org/abs/2206.05825).
 
-
+> **Note** MMD with dilated entropy is now implemented and available in [OpenSpiel](https://github.com/deepmind/open_spiel)!
+> For more details and examples see the PR https://github.com/deepmind/open_spiel/pull/871.
 
 ## Installation
 The code requires python 3.10.
